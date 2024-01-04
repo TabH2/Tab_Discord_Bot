@@ -5,3 +5,15 @@ This is a simple discord bot using Node.JS and Discord.JS. It's a very simple bo
 - Mute Command
 - Nickname Command
 
+# Installation
+- Install Node.JS (https://nodejs.org/en/download)
+- Open visual studio code or any code editor with terminal with a folder and name it anything (Discord-Bot) etc.
+- Open the terminal
+- Type 'npm init -y' and press enter
+- A package.json file will be created, change "main": to "main": "index.js",
+- Go back into terminal and run the command 'npm install discord.js@13'
+- Drag the index.js file into your folder and scroll all the way down and replace "BOT_TOKEN" with your Discord Bot Token (https://discord.com/developers/applications)
+- Go in the terminal and type node index.js and your bot should be functioning!
+
+# Contributors
+- Tab
